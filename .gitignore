@@ -1,0 +1,29 @@
+# Node modules
+**/node_modules/
+
+# Build output
+**/dist/
+**/build/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+npm-debug.log*
+
+# Env files (if used later)
+**/.env
+**/.env.local
+**/.env.*.local
+
+# IDE/editor folders
+.vscode/
+.idea/
+
+# Mac system files
+.DS_Store
+
+# Parcel, Vite, etc. (if used later)
+**/.cache/

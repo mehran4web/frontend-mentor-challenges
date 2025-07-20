@@ -1,0 +1,40 @@
+@import "tailwindcss";
+
+@theme {
+  --color-sunset: hsl(31, 77%, 52%);
+  --color-ocean: hsl(184, 100%, 22%);
+  --color-forest: hsl(179, 100%, 13%);
+  --color-transparent-white: hsla(0, 0%, 100%, 0.75);
+  --color-gray-100: hsl(0, 0%, 95%);
+  --text-body: 15px;
+  --font-lexend: "Lexend Deca", sans-serif;
+  --font-big-shoulders: "Big Shoulders Display", sans-serif;
+  --font-weight-lexend: 400;
+  --font-weight-big-shoulders: 700;
+}
+/* @utility debug-border-red {
+    border: 1px solid red;
+  }
+
+@utility debug-border-green {
+    border: 1px solid green;
+  } */
+  @utility
+    debug-border-red {
+      border: 1px solid red;
+    }
+    @utility debug-border-green {
+      border: 1px solid green;
+    }
+
+
+.heading {
+  font-size: 40px;
+  font-family: "Big Shoulders Display", cursive;
+  font-weight: 700;
+  text-transform: uppercase;
+  margin-bottom: 2rem;
+  letter-spacing: 0.2rem;
+  color:hsl(0, 0%, 95%);
+}
+
