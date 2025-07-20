@@ -1,6 +1,6 @@
 # 🎯 Frontend Mentor Challenges
 
-Welcome to my personal collection of [Frontend Mentor](https://www.frontendmentor.io) challenge solutions.  
+Welcome to my personal collection of [Frontend Mentor](https://www.frontendmentor.io/profile/mehran4web) challenge solutions.  
 Each project is built using different frontend technologies (HTML, CSS, Tailwind, React, etc.), and structured as its own folder inside this monorepo.
 
 ---
@@ -18,9 +18,7 @@ Each project is built using different frontend technologies (HTML, CSS, Tailwind
 ## 📦 Tech Stack Used
 
 - HTML5 / CSS3
-- Tailwind CSS
-- JavaScript (vanilla and frameworks coming soon)
-- Git & GitHub
+- Tailwind
 
 ---
 
@@ -31,7 +29,7 @@ Each challenge lives in its own folder.
 ## 🧑‍💻 Author
 
 - GitHub: [@mehran4web](https://github.com/mehran4web)
-- Frontend Mentor: [@yourhandle](https://www.frontendmentor.io/profile/yourhandle)
+- Frontend Mentor: [@mehran4web](https://www.frontendmentor.io/profile/mehran4web)
 
 ---
 
