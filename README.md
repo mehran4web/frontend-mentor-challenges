@@ -35,3 +35,12 @@ Each challenge lives in its own folder.
 ---
 
 Feel free to check out each folder for full code and read the individual project READMEs for more technical detail.
+
+## ✖️ Connect with Me on X
+
+Follow me on X for updates, tips, and more frontend dev content:
+
+[![Follow on X](https://img.shields.io/twitter/follow/mehran4web?style=social&label=Follow%20on%20X)](https://x.com/mehran4web)
+
+
+
