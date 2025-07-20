@@ -7,11 +7,12 @@ Each project is built using different frontend technologies (HTML, CSS, Tailwind
 
 ## 🚀 Live Projects
 
-| Challenge                            | Live Demo | Code Folder | Tech Stack     |
-|-------------------------------------|-----------|-------------|----------------|
-| 3-Column Preview Card Component     | [Live](https://mehran4web.github.io/frontend-mentor-challenges/3-column-preview-card-component/) | [Code](./3-column-preview-card-component) | Tailwind CSS |
+| Challenge                        | Live Demo                                                                                  | Code Folder                              | Tech Stack   | Demo Video                                        |
+|---------------------------------|--------------------------------------------------------------------------------------------|------------------------------------------|--------------|--------------------------------------------------|
+| 3-Column Preview Card Component | [Live](https://mehran4web.github.io/frontend-mentor-challenges/3-column-preview-card-component/) | [Code](./3-column-preview-card-component) | Tailwind CSS | [Watch Video](https://www.loom.com/share/your-video-id) |
 
 > More projects coming soon...
+
 
 ---
 
