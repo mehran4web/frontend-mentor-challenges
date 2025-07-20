@@ -28,3 +28,11 @@ Each project is built using different frontend technologies (HTML, CSS, Tailwind
 
 Each challenge lives in its own folder.
 
+## 🧑‍💻 Author
+
+- GitHub: [@mehran4web](https://github.com/mehran4web)
+- Frontend Mentor: [@yourhandle](https://www.frontendmentor.io/profile/yourhandle)
+
+---
+
+Feel free to check out each folder for full code and read the individual project READMEs for more technical detail.
