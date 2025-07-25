@@ -314,6 +314,12 @@
   .text-gray-600 {
     color: var(--color-gray-600);
   }
+  .text-ocean {
+    color: var(--color-ocean);
+  }
+  .text-sunset {
+    color: var(--color-sunset);
+  }
   .text-transparent-white {
     color: var(--color-transparent-white);
   }
